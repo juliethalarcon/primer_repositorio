@@ -1,0 +1,8 @@
+primer repositorio
+1.git init
+2.git --global.username
+3.git --global.useremail
+4.git status
+5.git add
+6.git commit -m "first commit"
+7.git push -u origin main
